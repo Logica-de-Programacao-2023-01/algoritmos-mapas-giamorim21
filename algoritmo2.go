@@ -20,8 +20,9 @@ func Maps(map1, map2 map[string]int) map[string]int {
 
 func main() {
 	map1 := map[string]int{
-		"apple":  1,
-		"banana": 2,
+		"apple":   1,
+		"banana":  2,
+		"abacaxi": 3,
 	}
 	map2 := map[string]int{
 		"banana": 3,
